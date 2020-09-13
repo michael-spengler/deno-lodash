@@ -2,8 +2,9 @@
   "name": "deno-lodash",
   "description": "Using lodash in Deno",
   "stable": true,
-  "repository": "",
+  "repository": "https://github.com/michael-spengler/deno-lodash",
   "files": [
+    "mod.ts",
     "lodash-npm/*",
     "lodash-npm/fp/*",
     "lodash.ts",

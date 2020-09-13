@@ -1,4 +1,4 @@
-[![nest badge](https://nest.land/badge.svg)](https://nest.land/package/lodash)
+[![nest badge](https://nest.land/badge.svg)](https://nest.land/package/deno-lodash)
 
 # Lodash
 
@@ -23,7 +23,7 @@ console.log(`Last element: ${lel}`);
 
 ```sh
 
-deno run --allow-read --unstable --allow-env usage-example.ts
+deno run --allow-read --unstable --allow-env https://x.nest.land/deno-lodash@0.0.1/usage-example.ts
 
 ```
 
