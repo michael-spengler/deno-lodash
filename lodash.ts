@@ -1,4 +1,4 @@
-import { createRequire } from 'https://deno.land/std/node/module.ts';
-export const ld = createRequire(import.meta.url)('./lodash-npm');
 
+import * as pkg from 'https://cdn.skypack.dev/lodash-es@^4.17.15';
 
+export const ld = pkg.lodash
