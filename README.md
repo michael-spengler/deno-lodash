@@ -31,7 +31,7 @@ deno run --allow-read --unstable --allow-env https://x.nest.land/deno-lodash@0.0
 
 ```sh
 
-tbd
+deno test --allow-read --unstable --allow-env https://x.nest.land/deno-lodash@0.0.1/test.ts
   
 ```
 
