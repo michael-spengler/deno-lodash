@@ -1,4 +1,4 @@
-import { ld } from 'https://deno.land/x/deno-lodash/mod.ts';
+import { ld } from 'https://deno.land/x/deno_lodash/mod.ts';
 
 let words = ['sky', 'wood', 'forest', 'falcon', 
     'pear', 'ocean', 'universe'];

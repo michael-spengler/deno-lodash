@@ -6,7 +6,7 @@
 
 ```ts
 
-import { ld } from 'https://deno.land/x/deno-lodash/mod.ts';
+import { ld } from 'https://deno.land/x/deno_lodash/mod.ts';
 
 let words = ['sky', 'wood', 'forest', 'falcon', 
     'pear', 'ocean', 'universe'];
@@ -23,7 +23,7 @@ console.log(`Last element: ${lel}`);
 
 ```sh
 
-deno run --allow-read --unstable --allow-env https://deno.land/x/deno-lodash/usage-example.ts
+deno run --allow-read --unstable --allow-env https://deno.land/x/deno_lodash/usage-example.ts
 
 ```
 
@@ -31,7 +31,7 @@ deno run --allow-read --unstable --allow-env https://deno.land/x/deno-lodash/usa
 
 ```sh
 
-deno test --allow-read --unstable --allow-env https://deno.land/x/deno-lodash/test.ts
+deno test --allow-read --unstable --allow-env https://deno.land/x/deno_lodash/test.ts
   
 ```
 
