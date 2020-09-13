@@ -1,0 +1,13 @@
+{
+  "name": "deno-lodash",
+  "description": "Using lodash in Deno",
+  "stable": true,
+  "repository": "",
+  "files": [
+    "lodash-npm/*",
+    "lodash-npm/fp/*",
+    "lodash.ts",
+    "README.md",
+    "usage-example.ts"
+  ]
+}
