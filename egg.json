@@ -1,12 +1,10 @@
 {
-  "name": "deno-lodash",
-  "description": "Using lodash in Deno",
+  "name": "lodash",
+  "description": "lodash for deno provided via https://cdn.skypack.dev/lodash-es@4.17.15",
   "stable": true,
-  "repository": "https://github.com/michael-spengler/deno-lodash",
+  "repository": "https://github.com/michael-spengler/lodash",
   "files": [
     "mod.ts",
-    "lodash-npm/*",
-    "lodash-npm/fp/*",
     "lodash.ts",
     "README.md",
     "usage-example.ts",

@@ -2,6 +2,7 @@
 
 # Lodash
 
+
 ## Usage Example
 
 ```ts
@@ -35,12 +36,3 @@ deno test --allow-read --unstable --allow-env https://x.nest.land/deno-lodash@1.
   
 ```
 
-## Support my Open Source Contributions
-
-If you like my work please consider downloading the brave browser via my
-promotion link: [https://brave.com/fan464](https://brave.com/fan464).
-
-![![](https://brave.com/)](https://brave.com/wp-content/uploads/2019/01/logotype-full-color.svg)  
-
-You might also consider sending some ETH to my wallet: **0x61bcBBdC0Ea8B824247956bb67C25949f435cCE7**  
-I guess the money is well invested.
