@@ -9,6 +9,7 @@
     "lodash-npm/fp/*",
     "lodash.ts",
     "README.md",
-    "usage-example.ts"
+    "usage-example.ts",
+    "test.ts"
   ]
 }

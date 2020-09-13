@@ -1,5 +1,5 @@
-import { assertEquals } from "https://deno.land/std/testing/asserts.ts";
 import { ld } from './mod.ts';
+import { assertEquals } from "https://deno.land/std/testing/asserts.ts";
 
 Deno.test("sleep for 2 seconds", async (): Promise<void> => {
 

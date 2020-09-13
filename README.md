@@ -6,13 +6,13 @@
 
 ```ts
 
-import Lodash from './lodash.ts';
+import { ld } from 'https://x.nest.land/deno-lodash@0.3.0/mod.ts';
 
 let words = ['sky', 'wood', 'forest', 'falcon', 
     'pear', 'ocean', 'universe'];
 
-let fel = Lodash.first(words);
-let lel = Lodash.last(words);
+let fel = ld.first(words);
+let lel = ld.last(words);
 
 console.log(`First element: ${fel}`);
 console.log(`Last element: ${lel}`);
@@ -23,7 +23,7 @@ console.log(`Last element: ${lel}`);
 
 ```sh
 
-deno run --allow-read --unstable --allow-env https://x.nest.land/deno-lodash@0.0.1/usage-example.ts
+deno run --allow-read --unstable --allow-env https://x.nest.land/deno-lodash@0.3.0/usage-example.ts
 
 ```
 
@@ -31,7 +31,7 @@ deno run --allow-read --unstable --allow-env https://x.nest.land/deno-lodash@0.0
 
 ```sh
 
-deno test --allow-read --unstable --allow-env https://x.nest.land/deno-lodash@0.0.1/test.ts
+deno test --allow-read --unstable --allow-env https://x.nest.land/deno-lodash@0.3.0/test.ts
   
 ```
 
